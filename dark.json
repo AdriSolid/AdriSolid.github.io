@@ -1739,7 +1739,7 @@
             "type": "line",
             "source": "carto",
             "source-layer": "transportation",
-            "minzoom": 13,
+            "minzoom": 15,
             "maxzoom": 24,
             "filter": [
                 "all",
@@ -1814,7 +1814,7 @@
             "type": "line",
             "source": "carto",
             "source-layer": "transportation",
-            "minzoom": 12,
+            "minzoom": 15,
             "maxzoom": 24,
             "filter": [
                 "all",
@@ -1882,7 +1882,7 @@
             "type": "line",
             "source": "carto",
             "source-layer": "transportation",
-            "minzoom": 12,
+            "minzoom": 15,
             "maxzoom": 24,
             "filter": [
                 "all",
@@ -1950,7 +1950,7 @@
             "type": "line",
             "source": "carto",
             "source-layer": "transportation",
-            "minzoom": 12,
+            "minzoom": 15,
             "maxzoom": 24,
             "filter": [
                 "all",
@@ -2018,7 +2018,7 @@
             "type": "line",
             "source": "carto",
             "source-layer": "transportation",
-            "minzoom": 11,
+            "minzoom": 15,
             "maxzoom": 24,
             "filter": [
                 "all",
@@ -2558,7 +2558,7 @@
             "type": "line",
             "source": "carto",
             "source-layer": "transportation",
-            "minzoom": 12,
+            "minzoom": 15,
             "maxzoom": 24,
             "filter": [
                 "all",
@@ -2615,7 +2615,7 @@
             "type": "line",
             "source": "carto",
             "source-layer": "transportation",
-            "minzoom": 12,
+            "minzoom": 15,
             "maxzoom": 24,
             "filter": [
                 "all",
@@ -2672,7 +2672,7 @@
             "type": "line",
             "source": "carto",
             "source-layer": "transportation",
-            "minzoom": 12,
+            "minzoom": 15,
             "maxzoom": 24,
             "filter": [
                 "all",
@@ -2729,7 +2729,7 @@
             "type": "line",
             "source": "carto",
             "source-layer": "transportation",
-            "minzoom": 13,
+            "minzoom": 15,
             "maxzoom": 24,
             "filter": [
                 "all",
