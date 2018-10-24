@@ -54,7 +54,7 @@
                     ]
                 ]
             },
-            "line-opacity": 1,
+            "line-opacity": 0.5,
             "line-color": "#1c1c1c"
         }
     },
@@ -171,7 +171,7 @@
         "type": "line",
         "source": "carto",
         "source-layer": "transportation",
-        "minzoom": 13,
+        "minzoom": 16,
         "maxzoom": 24,
         "filter": [
             "all",
@@ -222,7 +222,7 @@
                     ]
                 ]
             },
-            "line-opacity": 1,
+            "line-opacity": 0.5,
             "line-color": {
                 "stops": [
                     [
@@ -246,7 +246,7 @@
         "type": "line",
         "source": "carto",
         "source-layer": "transportation",
-        "minzoom": 12,
+        "minzoom": 16,
         "maxzoom": 24,
         "filter": [
             "all",
@@ -314,7 +314,7 @@
         "type": "line",
         "source": "carto",
         "source-layer": "transportation",
-        "minzoom": 12,
+        "minzoom": 16,
         "maxzoom": 24,
         "filter": [
             "all",
@@ -362,7 +362,7 @@
                     ]
                 ]
             },
-            "line-opacity": 1,
+            "line-opacity": 0.5,
             "line-color": {
                 "stops": [
                     [
@@ -382,7 +382,7 @@
         "type": "line",
         "source": "carto",
         "source-layer": "transportation",
-        "minzoom": 12,
+        "minzoom": 16,
         "maxzoom": 24,
         "filter": [
             "all",
@@ -430,7 +430,7 @@
                     ]
                 ]
             },
-            "line-opacity": 1,
+            "line-opacity": 0.5,
             "line-color": {
                 "stops": [
                     [
@@ -450,7 +450,7 @@
         "type": "line",
         "source": "carto",
         "source-layer": "transportation",
-        "minzoom": 11,
+        "minzoom": 16,
         "maxzoom": 24,
         "filter": [
             "all",
@@ -506,7 +506,7 @@
                     ]
                 ]
             },
-            "line-opacity": 1,
+            "line-opacity": 0.5,
             "line-color": {
                 "stops": [
                     [
@@ -831,7 +831,7 @@
         "type": "line",
         "source": "carto",
         "source-layer": "transportation",
-        "minzoom": 15,
+        "minzoom": 16,
         "maxzoom": 24,
         "filter": [
             "all",
@@ -867,7 +867,7 @@
                     ]
                 ]
             },
-            "line-opacity": 1,
+            "line-opacity": 0.5,
             "line-color": "#262626",
             "line-dasharray": {
                 "stops": [
@@ -894,7 +894,7 @@
         "type": "line",
         "source": "carto",
         "source-layer": "transportation",
-        "minzoom": 15,
+        "minzoom": 16,
         "maxzoom": 24,
         "filter": [
             "all",
@@ -933,7 +933,7 @@
                     ]
                 ]
             },
-            "line-opacity": 1,
+            "line-opacity": 0.5,
             "line-color": "#0b0b0b"
         }
     },
@@ -942,7 +942,7 @@
         "type": "line",
         "source": "carto",
         "source-layer": "transportation",
-        "minzoom": 15,
+        "minzoom": 16,
         "maxzoom": 24,
         "filter": [
             "all",
@@ -981,7 +981,7 @@
                     ]
                 ]
             },
-            "line-opacity": 1,
+            "line-opacity": 0.5,
             "line-color": "#0b0b0b"
         }
     },
@@ -990,7 +990,7 @@
         "type": "line",
         "source": "carto",
         "source-layer": "transportation",
-        "minzoom": 12,
+        "minzoom": 16,
         "maxzoom": 24,
         "filter": [
             "all",
@@ -1038,7 +1038,7 @@
                     ]
                 ]
             },
-            "line-opacity": 1,
+            "line-opacity": 0.5,
             "line-color": "#0b0b0b"
         }
     },
@@ -1047,7 +1047,7 @@
         "type": "line",
         "source": "carto",
         "source-layer": "transportation",
-        "minzoom": 12,
+        "minzoom": 16,
         "maxzoom": 24,
         "filter": [
             "all",
@@ -1095,7 +1095,7 @@
                     ]
                 ]
             },
-            "line-opacity": 1,
+            "line-opacity": 0.5,
             "line-color": "#0b0b0b"
         }
     },
@@ -1104,7 +1104,7 @@
         "type": "line",
         "source": "carto",
         "source-layer": "transportation",
-        "minzoom": 12,
+        "minzoom": 16,
         "maxzoom": 24,
         "filter": [
             "all",
@@ -1152,7 +1152,7 @@
                     ]
                 ]
             },
-            "line-opacity": 1,
+            "line-opacity": 0.5,
             "line-color": "#0b0b0b"
         }
     },
@@ -1161,7 +1161,7 @@
         "type": "line",
         "source": "carto",
         "source-layer": "transportation",
-        "minzoom": 13,
+        "minzoom": 16,
         "maxzoom": 24,
         "filter": [
             "all",
@@ -1213,7 +1213,7 @@
                     ]
                 ]
             },
-            "line-opacity": 1,
+            "line-opacity": 0.5,
             "line-color": "#0b0b0b"
         }
     },
@@ -1222,7 +1222,7 @@
         "type": "line",
         "source": "carto",
         "source-layer": "transportation",
-        "minzoom": 10,
+        "minzoom": 16,
         "maxzoom": 24,
         "filter": [
             "all",
@@ -1278,7 +1278,7 @@
                     ]
                 ]
             },
-            "line-opacity": 1,
+            "line-opacity": 0.5,
             "line-color": "#0b0b0b"
         }
     },
@@ -1287,7 +1287,7 @@
         "type": "line",
         "source": "carto",
         "source-layer": "transportation",
-        "minzoom": 10,
+        "minzoom": 16,
         "maxzoom": 24,
         "filter": [
             "all",
@@ -1343,7 +1343,7 @@
                     ]
                 ]
             },
-            "line-opacity": 1,
+            "line-opacity": 0.5,
             "line-color": "#0b0b0b"
         }
     },
@@ -1352,7 +1352,7 @@
         "type": "line",
         "source": "carto",
         "source-layer": "transportation",
-        "minzoom": 10,
+        "minzoom": 16,
         "maxzoom": 24,
         "filter": [
             "all",
@@ -1412,7 +1412,7 @@
                     ]
                 ]
             },
-            "line-opacity": 1,
+            "line-opacity": 0.5,
             "line-color": "#0b0b0b"
         }
     },
