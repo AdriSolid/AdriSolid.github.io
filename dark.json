@@ -1730,7 +1730,7 @@
                         ]
                     ]
                 },
-                "line-opacity": 1,
+                "line-opacity": 0.5,
                 "line-color": "#1c1c1c"
             }
         },
@@ -1739,7 +1739,7 @@
             "type": "line",
             "source": "carto",
             "source-layer": "transportation",
-            "minzoom": 15,
+            "minzoom": 13,
             "maxzoom": 24,
             "filter": [
                 "all",
@@ -1790,7 +1790,7 @@
                         ]
                     ]
                 },
-                "line-opacity": 1,
+                "line-opacity": 0.5,
                 "line-color": {
                     "stops": [
                         [
@@ -1814,7 +1814,7 @@
             "type": "line",
             "source": "carto",
             "source-layer": "transportation",
-            "minzoom": 15,
+            "minzoom": 12,
             "maxzoom": 24,
             "filter": [
                 "all",
@@ -1870,7 +1870,7 @@
                         ],
                         [
                             7,
-                            1
+                            0.5
                         ]
                     ]
                 },
@@ -1882,7 +1882,7 @@
             "type": "line",
             "source": "carto",
             "source-layer": "transportation",
-            "minzoom": 15,
+            "minzoom": 12,
             "maxzoom": 24,
             "filter": [
                 "all",
@@ -1930,7 +1930,7 @@
                         ]
                     ]
                 },
-                "line-opacity": 1,
+                "line-opacity": 0.5,
                 "line-color": {
                     "stops": [
                         [
@@ -1950,7 +1950,7 @@
             "type": "line",
             "source": "carto",
             "source-layer": "transportation",
-            "minzoom": 15,
+            "minzoom": 12,
             "maxzoom": 24,
             "filter": [
                 "all",
@@ -1998,7 +1998,7 @@
                         ]
                     ]
                 },
-                "line-opacity": 1,
+                "line-opacity": 0.5,
                 "line-color": {
                     "stops": [
                         [
@@ -2018,7 +2018,7 @@
             "type": "line",
             "source": "carto",
             "source-layer": "transportation",
-            "minzoom": 15,
+            "minzoom": 11,
             "maxzoom": 24,
             "filter": [
                 "all",
@@ -2074,7 +2074,7 @@
                         ]
                     ]
                 },
-                "line-opacity": 1,
+                "line-opacity": 0.5,
                 "line-color": {
                     "stops": [
                         [
@@ -2435,7 +2435,7 @@
                         ]
                     ]
                 },
-                "line-opacity": 1,
+                "line-opacity": 0.5,
                 "line-color": "#262626",
                 "line-dasharray": {
                     "stops": [
@@ -2501,7 +2501,7 @@
                         ]
                     ]
                 },
-                "line-opacity": 1,
+                "line-opacity": 0.5,
                 "line-color": "#0b0b0b"
             }
         },
@@ -2549,7 +2549,7 @@
                         ]
                     ]
                 },
-                "line-opacity": 1,
+                "line-opacity": 0.5,
                 "line-color": "#0b0b0b"
             }
         },
@@ -2558,7 +2558,7 @@
             "type": "line",
             "source": "carto",
             "source-layer": "transportation",
-            "minzoom": 15,
+            "minzoom": 12,
             "maxzoom": 24,
             "filter": [
                 "all",
@@ -2606,7 +2606,7 @@
                         ]
                     ]
                 },
-                "line-opacity": 1,
+                "line-opacity": 0.5,
                 "line-color": "#0b0b0b"
             }
         },
@@ -2615,7 +2615,7 @@
             "type": "line",
             "source": "carto",
             "source-layer": "transportation",
-            "minzoom": 15,
+            "minzoom": 12,
             "maxzoom": 24,
             "filter": [
                 "all",
@@ -2663,7 +2663,7 @@
                         ]
                     ]
                 },
-                "line-opacity": 1,
+                "line-opacity": 0.5,
                 "line-color": "#0b0b0b"
             }
         },
@@ -2672,7 +2672,7 @@
             "type": "line",
             "source": "carto",
             "source-layer": "transportation",
-            "minzoom": 15,
+            "minzoom": 12,
             "maxzoom": 24,
             "filter": [
                 "all",
@@ -2720,7 +2720,7 @@
                         ]
                     ]
                 },
-                "line-opacity": 1,
+                "line-opacity": 0.5,
                 "line-color": "#0b0b0b"
             }
         },
@@ -2729,7 +2729,7 @@
             "type": "line",
             "source": "carto",
             "source-layer": "transportation",
-            "minzoom": 15,
+            "minzoom": 13,
             "maxzoom": 24,
             "filter": [
                 "all",
@@ -2781,7 +2781,7 @@
                         ]
                     ]
                 },
-                "line-opacity": 1,
+                "line-opacity": 0.5,
                 "line-color": "#0b0b0b"
             }
         },
@@ -2846,7 +2846,7 @@
                         ]
                     ]
                 },
-                "line-opacity": 1,
+                "line-opacity": 0.5,
                 "line-color": "#0b0b0b"
             }
         },
@@ -2911,7 +2911,7 @@
                         ]
                     ]
                 },
-                "line-opacity": 1,
+                "line-opacity": 0.5,
                 "line-color": "#0b0b0b"
             }
         },
@@ -2980,7 +2980,7 @@
                         ]
                     ]
                 },
-                "line-opacity": 1,
+                "line-opacity": 0.5,
                 "line-color": "#0b0b0b"
             }
         },
